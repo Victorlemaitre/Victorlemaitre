@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a CS & Math student currently in its first year of master study at Paris Dauphine university aiming to pursue a career in deep learning research. I am currently looking for Internship this summer from mid May to the end of August. 
+I am a CS & Math student currently in its first year of master study at Paris Dauphine university aiming to pursue a career in deep learning research. I am currently looking for an internship this summer from mid May to the end of August. 
 
 ## CV
 [View my resume](./Resume.pdf)
