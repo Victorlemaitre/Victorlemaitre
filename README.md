@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Victorlemaitre/Victorlemaitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS & Math student currently in its first year of master study at Paris Dauphine university. My goal is to pursue a career in deep learning research. I am currently looking for Internship this summer from mid May to the end of August. 
 
-Here are some ideas to get you started:
+## CV
+[Download my CV](./Resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personnal Projects and Internships
+- [Summer Internship where I improved AstraZeneca's retrosynthesis tool Aizynthfinder ](https://github.com/Victorlemaitre/SummerInternship2024)
+- [Investigation inside a one layer MLP trained for modular addition](https://colab.research.google.com/drive/1p1a_bFpbCVr9rONKSV8FkRm1-l8hdtBh#scrollTo=37a56cb1f8b43601) 
+- [Last homeworks of Andrej karphathy's Neural Networks: Zero to Hero lecture on youtube](https://colab.research.google.com/drive/1mtGHPLUk5HFjm8hMJUNwT4X-CsZTf2cL#scrollTo=AnUonJsPfCsk)
+
+
+
+
