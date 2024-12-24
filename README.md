@@ -9,7 +9,7 @@ I am a CS & Math student currently in its first year of master study at Paris Da
 - [Summer Internship where I improved AstraZeneca's retrosynthesis tool Aizynthfinder ](https://github.com/Victorlemaitre/SummerInternship2024)
 - [Investigation inside a one layer MLP trained for modular addition](https://colab.research.google.com/drive/1p1a_bFpbCVr9rONKSV8FkRm1-l8hdtBh) 
 - [Last homeworks of Andrej karphathy's Neural Networks: Zero to Hero lecture on youtube](https://colab.research.google.com/drive/1mtGHPLUk5HFjm8hMJUNwT4X-CsZTf2cL)
-- [**Currently working on :hammer_and_wrench: :** Semantic textual similarity for case laws](https://colab.research.google.com/drive/1DTBrsgPE4IlshdOcjnbj9V-YiDEWhoYX?usp=sharing)
+- [**:hammer_and_wrench: Currently working on :** Semantic textual similarity for case laws](https://colab.research.google.com/drive/1DTBrsgPE4IlshdOcjnbj9V-YiDEWhoYX?usp=sharing)
 
 
 
